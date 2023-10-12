@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## A young programmer with a passion for backend and frontend programming. 
+A young programmer with a passion for backend and frontend programming. 
 ## Programing languages I know: 
   - Java
   -  C
