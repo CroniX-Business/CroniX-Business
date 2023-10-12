@@ -5,10 +5,10 @@
   - Java
   -  C
   - Python
-  - - ML
+    - ML
   - JavaScript
-  - - Node.js
-  - - React
+    - Node.js
+    - React
 
 <!--
 **CroniX-Business/CroniX-Business** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
