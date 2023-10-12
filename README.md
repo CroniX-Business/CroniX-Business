@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-A young programmer with a passion for backend and frontend programming. 
-Programing languages I know: 
-  • Java 
-  • C  
-  • Python
-    -> ML
-  • JavaScript
-    -> Node.js
-    -> React
+##A young programmer with a passion for backend and frontend programming. 
+##Programing languages I know: 
+  - Java 
+  - C  
+  - Python
+    - ML
+  - JavaScript
+    - Node.js
+    - React
 
 <!--
 **CroniX-Business/CroniX-Business** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
