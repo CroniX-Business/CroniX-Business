@@ -34,45 +34,43 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **petarruskan@gmail.com**
 
+
+**Programming Languages:**
 - c
-
-<h3 align="left">Programming Languages: </h3>
-- 🌱 I’m currently learning **Angular**
-  - c
-  - java
-  - javascript 
-  - typescript
-  - python
-  - django 
+- java
+- javascript 
+- typescript
+- python
+- django 
   
-<h3 align="left">Frontend: </h3>
-  - angular
-  - css3
-  - html5
-  - bootstrap
-  - tailwind
+**Frontend:**
+- angular
+- css3
+- html5
+- bootstrap
+- tailwind
 
-<h3 align="left">Backend: </h3>
-  - nodejs
-  - express
+**Backend:**
+- nodejs
+- express
 
-<h3 align="left">Mobile: </h3>
-  - kotlin
+**Mobile:**
+- kotlin
 
-<h3 align="left">AI/ML: </h3>
-  - tensorflow
-  - pytorch
-  - scikit_learn
-  - pandas
+**AI/ML:**
+- tensorflow
+- pytorch
+- scikit_learn
+- pandas
 
-<h3 align="left">Database: </h3>
-  - mongodb
-  - mysql
-  - mssql
+**Database:**
+- mongodb
+- mysql
+- mssql
 
-<h3 align="left">Other: </h3>
-  - git
-  - bash
-  - postman
+**Other:**
+- git
+- bash
+- postman
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corn&" alt="corn" /></p>
