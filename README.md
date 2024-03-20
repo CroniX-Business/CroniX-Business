@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **petarruskan@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" width="50"> 
-  <h3 align="left">Programming Languages: </h3>
-  <h3 align="left">Programming Languages: </h3>
+<h3 align="left">Programming Languages: </h3>
   - c
   - java
   - javascript 
@@ -45,39 +42,34 @@ Here are some ideas to get you started:
   - python
   - django 
   
-  
-  <h3 align="left">Frontend: </h3>
+<h3 align="left">Frontend: </h3>
   - angular
   - css3
   - html5
   - bootstrap
   - tailwind
 
-
-  <h3 align="left">Backend: </h3>
+<h3 align="left">Backend: </h3>
   - nodejs
   - express
 
-  <h3 align="left">Mobile: </h3>
+<h3 align="left">Mobile: </h3>
   - kotlin
 
-  <h3 align="left">AI/ML: </h3>
+<h3 align="left">AI/ML: </h3>
   - tensorflow
   - pytorch
   - scikit_learn
   - pandas
 
-
-  <h3 align="left">Database: </h3>
+<h3 align="left">Database: </h3>
   - mongodb
   - mysql
   - mssql
 
-  <h3 align="left">Other: </h3>
+<h3 align="left">Other: </h3>
   - git
   - bash
   - postman
-
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corn&" alt="corn" /></p>
