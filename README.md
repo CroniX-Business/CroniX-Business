@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **petarruskan@gmail.com**
 
+- c
+
 <h3 align="left">Programming Languages: </h3>
 - 🌱 I’m currently learning **Angular**
   - c
