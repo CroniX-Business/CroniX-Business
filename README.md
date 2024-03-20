@@ -16,7 +16,7 @@ A young programmer with a passion for backend and frontend programming.
 <h3 align="center">A young programmer with a passion for full stack development.</h3>
 
 <p style="text-align: center;">
-  &nbsp &nbsp &nbsp &nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=corn" alt="corn" />
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=corn" alt="corn" />
 </p>
 
 - 🌱 I’m currently learning **Angular**
