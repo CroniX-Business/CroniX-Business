@@ -29,7 +29,7 @@ A young programmer with a passion for backend and frontend programming.
 - django 
   
 **Frontend:**
-- angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> angular 
 - css3
 - html5
 - bootstrap
