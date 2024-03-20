@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **petarruskan@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" width="50"> 
   <h3 align="left">Programming Languages: </h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
