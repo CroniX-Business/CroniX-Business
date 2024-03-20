@@ -21,7 +21,7 @@ A young programmer with a passion for backend and frontend programming.
 
 - 🌱 I’m currently learning **Angular**
   
-- 📫 How to reach me **petarruskan@gmail.com**
+- 📫 How to reach me **contact me here**
 
 
 **Programming Languages:**
