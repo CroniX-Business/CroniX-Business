@@ -15,13 +15,15 @@ A young programmer with a passion for backend and frontend programming.
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">A young programmer with a passion for full stack development.</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corn&" alt="corn" /></p>
+
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **petarruskan@gmail.com**
 
 
 **Programming Languages:**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> c
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="20"/> c
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> java
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  javascript 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> typescript
@@ -57,5 +59,3 @@ A young programmer with a passion for backend and frontend programming.
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> git
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> bash
 - <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> postman
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corn&" alt="corn" /></p>
