@@ -12,21 +12,6 @@ A young programmer with a passion for backend and frontend programming.
     - Node.js (backend)
     - React (frontend)-->
 
-<!--
-**CroniX-Business/CroniX-Business** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">A young programmer with a passion for full stack development.</h3>
 
@@ -44,7 +29,7 @@ Here are some ideas to get you started:
 - django 
   
 **Frontend:**
-- angular
+- angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 - css3
 - html5
 - bootstrap
