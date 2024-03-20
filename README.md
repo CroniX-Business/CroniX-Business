@@ -15,7 +15,9 @@ A young programmer with a passion for backend and frontend programming.
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">A young programmer with a passion for full stack development.</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corn&" alt="corn" /></p>
+<p style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corn" alt="corn" />
+</p>
 
 - 🌱 I’m currently learning **Angular**
 
