@@ -37,48 +37,47 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" width="50"> 
   <h3 align="left">Programming Languages: </h3>
-  <p>c</p>
-  <p>java</p>
-  </br>
-  <p>c</p>
-  <p>javascript</p> 
-  <p>typescript</p>
-  </br>
-  <p>python</p>
-  <p>django</p> 
+  <h3 align="left">Programming Languages: </h3>
+  -c
+  -java
+  -javascript 
+  -typescript
+  -python
+  -django 
   
   
   <h3 align="left">Frontend: </h3>
-  <p>angular</p> 
-  <p>css3</p> 
-  <p>html5</p> 
-  <p>bootstrap</p> 
-  <p>tailwind</p> 
+  -angular
+  -css3
+  -html5
+  -bootstrap
+  -tailwind
 
 
   <h3 align="left">Backend: </h3>
-  <p>nodejs</p> 
-  <p>express</p> 
+  -nodejs
+  -express
 
   <h3 align="left">Mobile: </h3>
-  <p>kotlin</p> 
+  -kotlin
 
   <h3 align="left">AI/ML: </h3>
-  <p>tensorflow</p> 
-  <p>pytorch</p> 
-  <p>scikit_learn</p> 
-  <p>pandas</p> 
+  -tensorflow
+  -pytorch
+  -scikit_learn
+  -pandas
 
 
   <h3 align="left">Database: </h3>
-  <p>mongodb</p> 
-  <p>mysql</p> 
-  <p>mssql</p>
+  -mongodb
+  -mysql
+  -mssql
 
   <h3 align="left">Other: </h3>
-  <p>git</p> 
-  <p>bash</p> 
-  <p>postman</p> 
+  -git
+  -bash
+  -postman
+
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corn&" alt="corn" /></p>
