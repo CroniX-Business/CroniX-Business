@@ -38,45 +38,45 @@ Here are some ideas to get you started:
 <p align="left" width="50"> 
   <h3 align="left">Programming Languages: </h3>
   <h3 align="left">Programming Languages: </h3>
-  -c
-  -java
-  -javascript 
-  -typescript
-  -python
-  -django 
+  - c
+  - java
+  - javascript 
+  - typescript
+  - python
+  - django 
   
   
   <h3 align="left">Frontend: </h3>
-  -angular
-  -css3
-  -html5
-  -bootstrap
-  -tailwind
+  - angular
+  - css3
+  - html5
+  - bootstrap
+  - tailwind
 
 
   <h3 align="left">Backend: </h3>
-  -nodejs
-  -express
+  - nodejs
+  - express
 
   <h3 align="left">Mobile: </h3>
-  -kotlin
+  - kotlin
 
   <h3 align="left">AI/ML: </h3>
-  -tensorflow
-  -pytorch
-  -scikit_learn
-  -pandas
+  - tensorflow
+  - pytorch
+  - scikit_learn
+  - pandas
 
 
   <h3 align="left">Database: </h3>
-  -mongodb
-  -mysql
-  -mssql
+  - mongodb
+  - mysql
+  - mssql
 
   <h3 align="left">Other: </h3>
-  -git
-  -bash
-  -postman
+  - git
+  - bash
+  - postman
 
 </p>
 
