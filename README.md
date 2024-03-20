@@ -17,11 +17,12 @@ A young programmer with a passion for backend and frontend programming.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=corn" alt="corn" />
+- 🌱 I’m currently learning **Angular**
+  
+- 📫 How to reach me **petarruskan@gmail.com**
 </p>
 
-- 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **petarruskan@gmail.com**
 
 
 **Programming Languages:**
